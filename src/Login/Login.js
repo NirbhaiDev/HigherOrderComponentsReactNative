@@ -6,7 +6,7 @@ import {
   TextInput,
   TouchableOpacity,
   Text,
-  Dimensions,
+  Dimensions
 } from 'react-native';
 import * as images from 'src/images';
 
